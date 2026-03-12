@@ -1,0 +1,1 @@
+-StartOSDCloud "-ZTI -OSName 'Windows 11 25H2 x64' -OSLanguage en-gb -OSEdition Pro -OSActivation Retail"
